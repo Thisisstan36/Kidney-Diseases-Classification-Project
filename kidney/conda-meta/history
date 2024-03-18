@@ -1,0 +1,97 @@
+==> 2024-03-18 03:27:10 <==
+# cmd: C:\Users\admin\anaconda3\Scripts\conda-script.py create -p kidney python==3.12.2 -y
+# conda version: 24.1.2
++defaults/noarch::tzdata-2024a-h04d1e81_0
++defaults/win-64::bzip2-1.0.8-h2bbff1b_5
++defaults/win-64::ca-certificates-2023.12.12-haa95532_0
++defaults/win-64::expat-2.5.0-hd77b12b_0
++defaults/win-64::libffi-3.4.4-hd77b12b_0
++defaults/win-64::openssl-3.0.13-h2bbff1b_0
++defaults/win-64::pip-23.3.1-py312haa95532_0
++defaults/win-64::python-3.12.2-h1d929f7_0
++defaults/win-64::setuptools-68.2.2-py312haa95532_0
++defaults/win-64::sqlite-3.41.2-h2bbff1b_0
++defaults/win-64::tk-8.6.12-h2bbff1b_0
++defaults/win-64::vc-14.2-h21ff451_1
++defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
++defaults/win-64::wheel-0.41.2-py312haa95532_0
++defaults/win-64::xz-5.4.6-h8cc25b3_0
++defaults/win-64::zlib-1.2.13-h8cc25b3_0
+# update specs: ['python==3.12.2']
+==> 2024-03-18 03:49:54 <==
+# cmd: C:\Users\admin\anaconda3\Scripts\conda-script.py install -c conda-forge pyarrow
+# conda version: 24.1.2
+-defaults/win-64::ca-certificates-2023.12.12-haa95532_0
+-defaults/win-64::openssl-3.0.13-h2bbff1b_0
+-defaults/win-64::python-3.12.2-h1d929f7_0
+-defaults/win-64::tk-8.6.12-h2bbff1b_0
+-defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
+-defaults/win-64::zlib-1.2.13-h8cc25b3_0
++conda-forge/win-64::aws-c-auth-0.7.16-h7613915_8
++conda-forge/win-64::aws-c-cal-0.6.10-hf6fcf4e_2
++conda-forge/win-64::aws-c-common-0.9.14-hcfcfb64_0
++conda-forge/win-64::aws-c-compression-0.2.18-hf6fcf4e_2
++conda-forge/win-64::aws-c-event-stream-0.4.2-h3df98b0_6
++conda-forge/win-64::aws-c-http-0.8.1-h4e3df0f_7
++conda-forge/win-64::aws-c-io-0.14.6-hf0b8b6f_1
++conda-forge/win-64::aws-c-mqtt-0.10.3-h96fac68_2
++conda-forge/win-64::aws-c-s3-0.5.2-h08df315_2
++conda-forge/win-64::aws-c-sdkutils-0.1.15-hf6fcf4e_2
++conda-forge/win-64::aws-checksums-0.1.18-hf6fcf4e_2
++conda-forge/win-64::aws-crt-cpp-0.26.3-h6047f0a_2
++conda-forge/win-64::aws-sdk-cpp-1.11.267-h558341a_3
++conda-forge/win-64::c-ares-1.27.0-hcfcfb64_0
++conda-forge/win-64::ca-certificates-2024.2.2-h56e8100_0
++conda-forge/win-64::intel-openmp-2024.0.0-h57928b3_49841
++conda-forge/win-64::krb5-1.21.2-heb0366b_0
++conda-forge/win-64::libabseil-20240116.1-cxx17_h63175ca_2
++conda-forge/win-64::libarrow-15.0.1-h2a83f13_2_cpu
++conda-forge/win-64::libarrow-acero-15.0.1-h63175ca_2_cpu
++conda-forge/win-64::libarrow-dataset-15.0.1-h63175ca_2_cpu
++conda-forge/win-64::libarrow-flight-15.0.1-h02312f3_2_cpu
++conda-forge/win-64::libarrow-flight-sql-15.0.1-h55b4db4_2_cpu
++conda-forge/win-64::libarrow-gandiva-15.0.1-h3f2ff47_2_cpu
++conda-forge/win-64::libarrow-substrait-15.0.1-h89268de_2_cpu
++conda-forge/win-64::libblas-3.9.0-21_win64_mkl
++conda-forge/win-64::libbrotlicommon-1.1.0-hcfcfb64_1
++conda-forge/win-64::libbrotlidec-1.1.0-hcfcfb64_1
++conda-forge/win-64::libbrotlienc-1.1.0-hcfcfb64_1
++conda-forge/win-64::libcblas-3.9.0-21_win64_mkl
++conda-forge/win-64::libcrc32c-1.1.2-h0e60522_0
++conda-forge/win-64::libcurl-8.6.0-hd5e4a3a_0
++conda-forge/win-64::libevent-2.1.12-h3671451_1
++conda-forge/win-64::libexpat-2.5.0-h63175ca_1
++conda-forge/win-64::libgoogle-cloud-2.22.0-h9cad5c0_1
++conda-forge/win-64::libgoogle-cloud-storage-2.22.0-hb581fae_1
++conda-forge/win-64::libgrpc-1.62.1-h5273850_0
++conda-forge/win-64::libhwloc-2.9.3-default_haede6df_1009
++conda-forge/win-64::libiconv-1.17-hcfcfb64_2
++conda-forge/win-64::liblapack-3.9.0-21_win64_mkl
++conda-forge/win-64::libparquet-15.0.1-h7ec3a38_2_cpu
++conda-forge/win-64::libprotobuf-4.25.3-h503648d_0
++conda-forge/win-64::libre2-11-2023.09.01-hf8d8778_2
++conda-forge/win-64::libsqlite-3.45.2-hcfcfb64_0
++conda-forge/win-64::libssh2-1.11.0-h7dfc565_0
++conda-forge/win-64::libthrift-0.19.0-ha2b3283_1
++conda-forge/win-64::libutf8proc-2.8.0-h82a8f57_0
++conda-forge/win-64::libxml2-2.12.6-hc3477c8_0
++conda-forge/win-64::libzlib-1.2.13-hcfcfb64_5
++conda-forge/win-64::lz4-c-1.9.4-hcfcfb64_0
++conda-forge/win-64::mkl-2024.0.0-h66d3029_49657
++conda-forge/win-64::numpy-1.26.4-py312h8753938_0
++conda-forge/win-64::openssl-3.2.1-hcfcfb64_0
++conda-forge/win-64::orc-2.0.0-heb0c069_0
++conda-forge/win-64::pthreads-win32-2.9.1-hfa6e2cd_3
++conda-forge/win-64::pyarrow-15.0.1-py312h85e32bb_2_cpu
++conda-forge/win-64::python-3.12.2-h2628c8c_0_cpython
++conda-forge/win-64::python_abi-3.12-4_cp312
++conda-forge/win-64::re2-2023.09.01-hd3b24a8_2
++conda-forge/win-64::snappy-1.1.10-hfb803bf_0
++conda-forge/win-64::tbb-2021.11.0-h91493d7_1
++conda-forge/win-64::tk-8.6.13-h5226925_1
++conda-forge/win-64::ucrt-10.0.22621.0-h57928b3_0
++conda-forge/win-64::vc14_runtime-14.38.33130-h82b7239_18
++conda-forge/win-64::vs2015_runtime-14.38.33130-hcb4865c_18
++conda-forge/win-64::zlib-1.2.13-hcfcfb64_5
++conda-forge/win-64::zstd-1.5.5-h12be248_0
+# update specs: ['pyarrow']
